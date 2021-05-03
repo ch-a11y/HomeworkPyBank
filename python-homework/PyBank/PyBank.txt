@@ -1,0 +1,9 @@
+
+PyBank Financial Analysis
+January 2010 through February 2017
+
+Total Months: 86
+Total_Profits: $38382578
+average_change_profits: $7803
+greatest_increase_in_profits: Feb-2012 ($1926159)
+greatest_decrease_in_profits: Sep-2013 ($-2196167)
